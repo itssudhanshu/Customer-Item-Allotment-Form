@@ -23,6 +23,7 @@ The language used-
 
 ## Screenshots
 
-<img src="screenshots/1.1.png" height="200" width="400" hspace="10"><img src="screenshots/1.2.png" height="300" width="500">
+<img src="screenshots/2.1.png" height="300" width="500" hspace="5"><img src="screenshots/2.2.png" height="300" width="500" hspace="5">
+<img src="screenshots/2.3.png" height="300" width="500" hspace="5"><img src="screenshots/2.4.png" height="300" width="500" hspace="5">
 
 
