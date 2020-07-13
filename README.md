@@ -16,5 +16,13 @@ The Project contains the five Panels-
 The language used-  
 - Back-end languages like php, python etc.  
 - Front-end languages like Ajax, jQuery, JavaScript, Html, Css etc.  
-- Database - phpMyAdmin. 
+- Database - phpMyAdmin, MySQL. 
+- Software Used (Server) - Xampp(Windows), VS Code(IDE).
+
+---
+
+## Screenshots
+
+<img src="screenshots/1.1.png" height="200" width="400" hspace="10"><img src="screenshots/1.2.png" height="300" width="500">
+
 
